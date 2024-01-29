@@ -1,0 +1,8 @@
+//considerations:
+
+//cost (how much is the item?)
+//bank <= 0, cannot buy
+//max amount (start amount)
+//'currency'
+//what is being bought
+//
