@@ -16,6 +16,10 @@ const GameLoop = () => {
     console.log(my_Pet_slots.slots) 
     my_Pet_slots.Buying_Item("Hiss", 2)
     console.log(my_Pet_slots.slots) 
+    my_Pet_slots.Buying_Item("Bark", 0)
+    console.log(my_Pet_slots.slots) 
+    my_Pet_slots.Buying_Item("Moo", 2)
+    console.log(my_Pet_slots.slots) 
 }
 
 GameLoop()
